@@ -1,0 +1,146 @@
+[
+  {
+    "id": "G01",
+    "title": "St. Mark's Basilica",
+    "text": "St. Mark's Basilica, also called Basilica di San Marco, is a major religious landmark in Venice. It remains a place of worship as well as a visitor attraction. The official visitor website lists options for the basilica, the Pala d'Oro, the museum and Loggia dei Cavalli, and St. Mark's Bell Tower. Check which areas are included when choosing a visit.",
+    "source": "https://www.basilicasanmarco.it/en/",
+    "category": "church",
+    "tags": ["religious_heritage", "culture", "architecture"]
+  },
+  {
+    "id": "G02",
+    "title": "Doge's Palace",
+    "text": "The Doge's Palace, or Palazzo Ducale, was the residence of the Doge and a centre of government in the Venetian Republic. Its architecture combines Gothic and Renaissance elements. The palace faces St. Mark's Square and St. Mark's Basin. The Bridge of Sighs connects the palace to the New Prisons. Visitors can explore the history of Venice's former rulers through this historic building.",
+    "source": "https://palazzoducale.visitmuve.it/en/building-and-history/",
+    "category": "palace",
+    "tags": ["history", "architecture", "venetian_republic"]
+  },
+  {
+    "id": "G03",
+    "title": "Rialto Bridge",
+    "text": "The Rialto Bridge, or Ponte di Rialto, crosses the Grand Canal in Venice. The present bridge was built between 1588 and 1592 by Antonio da Ponte. It connects the Rialto market area with the streets leading towards St. Mark's Square. Until the nineteenth century, it was the only bridge across the Grand Canal.",
+    "source": "https://www.veneziaunica.it/en/things-to-do-in-venice/monuments-and-theatres/rialto-bridge",
+    "category": "bridge",
+    "tags": ["history", "architecture", "grand_canal", "outdoor"]
+  },
+  {
+    "id": "G04",
+    "title": "Correr Museum",
+    "text": "The Correr Museum in Venice explores the city's art and history. Its Neoclassical Rooms contain works by the sculptor Antonio Canova. Other sections describe Venetian daily life, public institutions, naval achievements and celebrations. The picture gallery includes Venetian paintings up to the sixteenth century. This museum offers historical context about how Venice developed and how its people lived.",
+    "source": "https://correr.visitmuve.it/en/layout-and-collections/",
+    "category": "museum",
+    "tags": ["history", "art", "sculpture", "indoor"]
+  },
+  {
+    "id": "G05",
+    "title": "Murano Glass Museum",
+    "text": "The Glass Museum on Murano, an island in Venice, explains the development of glassmaking through historical objects. Its collections include ancient Roman glass and Murano pieces from the fifteenth to the twentieth century. Displays cover techniques such as filigree and millefiori, as well as glass beads and chandeliers. The museum focuses on the craft and design history of glass.",
+    "source": "https://museovetro.visitmuve.it/en/layout-and-collections/",
+    "category": "museum",
+    "tags": ["glassmaking", "crafts", "murano", "indoor"]
+  },
+  {
+    "id": "G06",
+    "title": "Burano Lace Museum",
+    "text": "The Lace Museum is in Piazza Galuppi on Burano, an island in Venice. It occupies the historic palace of the Podesta of Torcello, which housed the Burano Lace School from 1872 to 1970. The museum presents Venetian lace from the sixteenth to the twentieth century and introduces the local tradition of lace-making passed between generations.",
+    "source": "https://museomerletto.visitmuve.it/en/home/",
+    "category": "museum",
+    "tags": ["lace", "crafts", "burano", "indoor"]
+  },
+  {
+    "id": "G07",
+    "title": "Ca' Rezzonico: Eighteenth-Century Venice",
+    "text": "Ca' Rezzonico is a palace on Venice's Grand Canal that houses the Museum of Eighteenth-Century Venice. Its rooms combine paintings, furnishings, everyday objects and frescoes to evoke life in a wealthy Venetian residence. Baldassare Longhena began the architectural project, and Giorgio Massari later completed it for the Rezzonico family. The museum focuses on eighteenth-century art and domestic surroundings.",
+    "source": "https://carezzonico.visitmuve.it/en/building-and-history/",
+    "category": "museum",
+    "tags": ["history", "art", "grand_canal", "indoor"]
+  },
+  {
+    "id": "G08",
+    "title": "Ca' Pesaro: International Gallery of Modern Art",
+    "text": "Ca' Pesaro in Venice houses the International Gallery of Modern Art in a Baroque palace. Its collection includes paintings and sculptures spanning the nineteenth and twentieth centuries and contemporary art. Highlights include Rodin's The Thinker and Klimt's Judith II, also called Salome. Many early acquisitions came from the Venice Biennale. The same palace also houses the Museum of Oriental Art on its top floor.",
+    "source": "https://capesaro.visitmuve.it/en/layout-and-collections/",
+    "category": "museum",
+    "tags": ["modern_art", "painting", "sculpture", "indoor"]
+  },
+  {
+    "id": "G09",
+    "title": "Peggy Guggenheim Collection",
+    "text": "The Peggy Guggenheim Collection is an art museum in Palazzo Venier dei Leoni on Venice's Grand Canal, in Dorsoduro. The building was Peggy Guggenheim's home. The museum focuses on twentieth-century European and North American art. Visitors can explore her personal collection, works from the Schulhof collection, a sculpture garden and temporary exhibitions.",
+    "source": "https://www.guggenheim-venice.it/en/the-museum/",
+    "category": "museum",
+    "tags": ["modern_art", "sculpture", "grand_canal", "dorsoduro"]
+  },
+  {
+    "id": "G10",
+    "title": "Lido Beaches",
+    "text": "The Lido is an island between the Venetian Lagoon and the Adriatic Sea. It offers sandy beaches for a seaside visit away from Venice's historic centre. Visitors can choose between free-access beach areas and equipped beaches with services. The island also includes the Alberoni area, known for its natural surroundings. Specific beach facilities and their availability should be checked before a visit.",
+    "source": "https://www.veneziaunica.it/en/beaches",
+    "category": "beach",
+    "tags": ["outdoor", "nature", "seaside", "lido"]
+  },
+  {
+    "id": "G11",
+    "title": "La Fenice Theatre",
+    "text": "Teatro La Fenice is a historic opera theatre in Venice. It opened on 16 May 1792 with Giovanni Paisiello's opera I giuochi d'Agrigento. The theatre is associated with Venice's musical and operatic history, including works by major Italian composers. Its name means The Phoenix. This guide describes the theatre's background rather than its current performance calendar.",
+    "source": "https://www.teatrolafenice.it/fondazione-teatro-la-fenice/storia/",
+    "category": "theatre",
+    "tags": ["opera", "music", "history", "indoor"]
+  },
+  {
+    "id": "G12",
+    "title": "Getting Around Venice by Vaporetto",
+    "text": "Visitors can explore Venice on foot or use public water transport. A vaporetto is a waterbus used for journeys through the city and across the lagoon. ACTV operates public water services, while Alilaguna is a separate operator with airport connections. Choose a route according to your destination and check the operator's current timetable and ticket conditions before travelling.",
+    "source": "https://www.veneziaunica.it/en/getting-around-venice/public-transport?language=en",
+    "category": "transport",
+    "tags": ["vaporetto", "waterbus", "actv", "getting_around"]
+  },
+  {
+    "id": "G13",
+    "title": "Marco Polo Airport Waterbus Transfer",
+    "text": "Venice Marco Polo Airport has an Alilaguna waterbus service connecting its dock with Venice and lagoon destinations. To reach the airport dock, follow the blue Water Transport signs to the first floor of the terminal, then use the elevated pedestrian route with moving walkways. Waterbus tickets can be purchased through the Alilaguna website. Check the route for your intended destination before boarding.",
+    "source": "https://www.veneziaairport.it/en_gb/transport/transport-services/boat/",
+    "category": "transport",
+    "tags": ["airport", "alilaguna", "waterbus", "arrival"]
+  },
+  {
+    "id": "G14",
+    "title": "Walking Considerately in Venice",
+    "text": "Venice's narrow streets are called calli. The city's visitor guidance asks pedestrians to keep to the right, walk in single file when necessary and avoid stopping on bridges so others can pass. For a rest or a snack, use a cafe, restaurant or a bench in a green space. Bridges, monument steps and canal banks are not suitable picnic spots.",
+    "source": "https://www.veneziaunica.it/en/sustainable-venice/enjoy-respect-venezia",
+    "category": "travel_tips",
+    "tags": ["walking", "etiquette", "public_spaces"]
+  },
+  {
+    "id": "G15",
+    "title": "Caring for Venice's Environment and Heritage",
+    "text": "Venice encourages visitors to carry a refillable bottle and use public drinking fountains. Put litter, including cigarette ends, in bins. Protect historic buildings and bridges by avoiding graffiti, stickers and padlocks. Do not feed pigeons or gulls. These small actions help care for Venice's heritage, wildlife and shared public spaces.",
+    "source": "https://www.veneziaunica.it/en/sustainable-venice/enjoy-respect-venezia",
+    "category": "travel_tips",
+    "tags": ["sustainability", "heritage", "wildlife", "drinking_water"]
+  },
+  {
+    "id": "G16",
+    "title": "Natural History Museum: Fossils and Dinosaurs",
+    "text": "The Natural History Museum of Venice Giancarlo Ligabue explores prehistoric life through fossils. Its On the Tracks of Life section introduces palaeontology and the scientific expedition that Ligabue organised to the Tenere Desert in 1973. The expedition uncovered ancient animal and plant remains, including a dinosaur and a giant crocodile. This section explains how fossil discoveries help researchers understand life in the distant past.",
+    "source": "https://msn.visitmuve.it/en/the-museum/exhibitions/tracks-of-life/",
+    "category": "museum",
+    "tags": ["natural_history", "dinosaurs", "fossils", "indoor"]
+  },
+  {
+    "id": "G17",
+    "title": "Palazzo Mocenigo: Fashion and Perfume",
+    "text": "Palazzo Mocenigo is a historic Venetian residence with a museum devoted to fashion, costume and local traditions. Period furnishings, artworks, garments and accessories illustrate aristocratic life in the seventeenth and eighteenth centuries. A separate section explores perfume through multimedia displays and sensory experiences. Visitors interested in clothing and fragrance can learn about these aspects of Venice's cultural history.",
+    "source": "https://mocenigo.visitmuve.it/en/muve-online/videos/",
+    "category": "museum",
+    "tags": ["fashion", "perfume", "venetian_traditions", "indoor"]
+  },
+  {
+    "id": "G18",
+    "title": "Carlo Goldoni's House",
+    "text": "Carlo Goldoni's House is a small museum in Ca' Centanni, the Venice home where the playwright was born in 1707. The site introduces his connection with theatre and includes a library of theatrical studies. Visitors can also see a puppet theatre from the Grimani ai Servi family collection, an example of Venetian craftsmanship linked to theatrical entertainment.",
+    "source": "https://carlogoldoni.visitmuve.it/en/home/",
+    "category": "museum",
+    "tags": ["literature", "theatre", "puppets", "indoor"]
+  }
+]
