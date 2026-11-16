@@ -8,7 +8,7 @@ A Streamlit travel assistant for Venice, Italy. Email/password sign-in uses Fire
 - Student ID: 25127230
 - Class: 25C09
 - Chosen city: Venice, Italy
-- Demonstration video (maximum 5 minutes): 
+- Demonstration video: https://drive.google.com/drive/folders/1LWZHxowaHF-pAPkYvJws7T4V-aC7queA?usp=sharing
 
 ## Setup
 
